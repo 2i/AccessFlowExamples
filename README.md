@@ -1,8 +1,8 @@
 # Examples for AccessFlow
 
-This Visual Studio repository comprises projects demonstrating the use of [AccessFlow](https://github.com/2i/AccessFlow).
+This Visual Studio repository comprises projects demonstrating the use of [AccessFlow](https://github.com/c7hm4r/AccessFlow).
 
-For an introduction, please read the [AccessFlow README](https://github.com/2i/AccessFlow/blob/master/README.md) before.
+For an introduction, please read the [AccessFlow README](https://github.com/c7hm4r/AccessFlow/blob/master/README.md) before.
 
 ## `SimpleComponent`
 
